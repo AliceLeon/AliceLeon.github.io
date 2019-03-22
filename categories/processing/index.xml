@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Processing on AliceLeon</title>
+    <link>https://aliceleon.info/categories/processing/</link>
+    <description>Recent content in Processing on AliceLeon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 May 2018 18:25:22 +0800</lastBuildDate>
+    
+	<atom:link href="https://aliceleon.info/categories/processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Secret</title>
+      <link>https://aliceleon.info/post/secret/</link>
+      <pubDate>Sun, 06 May 2018 18:25:22 +0800</pubDate>
+      
+      <guid>https://aliceleon.info/post/secret/</guid>
+      <description>&lt;p&gt;An interactive wall installation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Playground</title>
+      <link>https://aliceleon.info/post/the_playground/</link>
+      <pubDate>Thu, 07 Mar 2019 19:50:47 +0800</pubDate>
+      
+      <guid>https://aliceleon.info/post/the_playground/</guid>
+      <description>&lt;p&gt;A few interactive programs for children for &lt;a href=&#34;http://www.pacee-edu.com/pacee-lab&#34;&gt;Pacee Lab&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sketch Pieces</title>
+      <link>https://aliceleon.info/post/sketch_pieces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aliceleon.info/post/sketch_pieces/</guid>
+      <description>&lt;p&gt;A collection of my processing sketches and such.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
