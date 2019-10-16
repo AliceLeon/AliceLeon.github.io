@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AliceLeon</title>
-    <link>https://aliceleon.info/post/</link>
+    <link>https://aliceleon.org/post/</link>
     <description>Recent content in Posts on AliceLeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 May 2018 18:25:22 +0800</lastBuildDate>
     
-	<atom:link href="https://aliceleon.info/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aliceleon.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Secret</title>
-      <link>https://aliceleon.info/post/secret/</link>
+      <link>https://aliceleon.org/post/secret/</link>
       <pubDate>Sun, 06 May 2018 18:25:22 +0800</pubDate>
       
-      <guid>https://aliceleon.info/post/secret/</guid>
+      <guid>https://aliceleon.org/post/secret/</guid>
       <description>&lt;p&gt;An interactive wall installation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Moody</title>
-      <link>https://aliceleon.info/post/moody/</link>
+      <link>https://aliceleon.org/post/moody/</link>
       <pubDate>Mon, 01 May 2017 18:25:22 +0800</pubDate>
       
-      <guid>https://aliceleon.info/post/moody/</guid>
+      <guid>https://aliceleon.org/post/moody/</guid>
       <description>&lt;p&gt;A data visualization about how people&amp;rsquo;s mood vary in a day and how they show it through social media platforms.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>VJ Clips</title>
-      <link>https://aliceleon.info/post/vj_clips/</link>
+      <link>https://aliceleon.org/post/vj_clips/</link>
       <pubDate>Sat, 15 Dec 2018 22:00:00 +0800</pubDate>
       
-      <guid>https://aliceleon.info/post/vj_clips/</guid>
+      <guid>https://aliceleon.org/post/vj_clips/</guid>
       <description>&lt;p&gt;A failed show for one of my favourite post-rock bands — Sparrow.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Playground</title>
-      <link>https://aliceleon.info/post/the_playground/</link>
+      <link>https://aliceleon.org/post/the_playground/</link>
       <pubDate>Thu, 07 Mar 2019 19:50:47 +0800</pubDate>
       
-      <guid>https://aliceleon.info/post/the_playground/</guid>
+      <guid>https://aliceleon.org/post/the_playground/</guid>
       <description>&lt;p&gt;A few interactive programs for children for &lt;a href=&#34;http://www.pacee-edu.com/pacee-lab&#34;&gt;Pacee Lab&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Sketch Pieces</title>
-      <link>https://aliceleon.info/post/sketch_pieces/</link>
+      <link>https://aliceleon.org/post/sketch_pieces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aliceleon.info/post/sketch_pieces/</guid>
+      <guid>https://aliceleon.org/post/sketch_pieces/</guid>
       <description>&lt;p&gt;A collection of my processing sketches and such.&lt;/p&gt;</description>
     </item>
     
