@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -28,8 +28,53 @@
   </url>
   
   <url>
+    <loc>https://aliceleon.org/</loc>
+    <lastmod>2019-03-22T20:05:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aliceleon.org/about/</loc>
     <lastmod>2019-03-20T15:32:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/categories/</loc>
+    <lastmod>2019-03-07T19:50:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/tags/kinect/</loc>
+    <lastmod>2019-03-07T19:50:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/post/</loc>
+    <lastmod>2019-03-07T19:50:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/categories/processing/</loc>
+    <lastmod>2019-03-07T19:50:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/tags/</loc>
+    <lastmod>2019-03-07T19:50:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/categories/unity/</loc>
+    <lastmod>2019-03-07T19:50:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/tags/vj/</loc>
+    <lastmod>2018-12-15T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/tags/p5.js/</loc>
+    <lastmod>2017-05-01T18:25:22+08:00</lastmod>
   </url>
   
   <url>
@@ -38,70 +83,15 @@
   </url>
   
   <url>
-    <loc>https://aliceleon.org/</loc>
-    <lastmod>2018-05-06T18:25:22+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://aliceleon.org/tags/design/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/tags/kinect/</loc>
-    <lastmod>2018-05-06T18:25:22+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aliceleon.org/tags/others/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/tags/p5.js/</loc>
-    <lastmod>2017-05-01T18:25:22+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/post/</loc>
-    <lastmod>2018-05-06T18:25:22+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/categories/processing/</loc>
-    <lastmod>2018-05-06T18:25:22+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aliceleon.org/post/sketch_pieces/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/tags/</loc>
-    <lastmod>2018-05-06T18:25:22+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/categories/unity/</loc>
-    <lastmod>2018-12-15T22:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/tags/vj/</loc>
-    <lastmod>2018-12-15T22:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Alice</title>
@@ -6,6 +6,7 @@
     <description>Recent content in Categories on Alice</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 07 Mar 2019 19:50:47 +0800</lastBuildDate>
     
 	<atom:link href="https://aliceleon.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>Processing</title>
       <link>https://aliceleon.org/categories/processing/</link>
-      <pubDate>Sun, 06 May 2018 18:25:22 +0800</pubDate>
+      <pubDate>Thu, 07 Mar 2019 19:50:47 +0800</pubDate>
       
       <guid>https://aliceleon.org/categories/processing/</guid>
       <description></description>
@@ -22,7 +23,7 @@
     <item>
       <title>Unity</title>
       <link>https://aliceleon.org/categories/unity/</link>
-      <pubDate>Sat, 15 Dec 2018 22:00:00 +0800</pubDate>
+      <pubDate>Thu, 07 Mar 2019 19:50:47 +0800</pubDate>
       
       <guid>https://aliceleon.org/categories/unity/</guid>
       <description></description>
