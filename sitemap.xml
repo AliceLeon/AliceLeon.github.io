@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aliceleon.org/post/lit/</loc>
+    <lastmod>2020-05-16T01:13:30+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aliceleon.org/post/secret/</loc>
     <lastmod>2018-05-06T18:25:22+08:00</lastmod>
   </url>
@@ -23,6 +28,50 @@
   </url>
   
   <url>
+    <loc>https://aliceleon.org/post/sketch_pieces/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/categories/c4d/</loc>
+    <lastmod>2020-05-16T21:02:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/post/c4d_practice/</loc>
+    <lastmod>2020-05-16T21:02:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/categories/</loc>
+    <lastmod>2020-05-16T21:02:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/post/</loc>
+    <lastmod>2020-05-16T21:02:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/tags/design/</loc>
+    <lastmod>2020-05-16T01:13:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/tags/others/</loc>
+    <lastmod>2020-05-16T01:13:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/categories/p5js/</loc>
+    <lastmod>2020-05-16T01:13:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/tags/</loc>
+    <lastmod>2020-05-16T01:13:30+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aliceleon.org/others/</loc>
     <lastmod>2019-03-22T20:05:00+08:00</lastmod>
   </url>
@@ -38,27 +87,12 @@
   </url>
   
   <url>
-    <loc>https://aliceleon.org/categories/</loc>
-    <lastmod>2019-03-07T19:50:47+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aliceleon.org/tags/kinect/</loc>
     <lastmod>2019-03-07T19:50:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aliceleon.org/post/</loc>
-    <lastmod>2019-03-07T19:50:47+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aliceleon.org/categories/processing/</loc>
-    <lastmod>2019-03-07T19:50:47+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/tags/</loc>
     <lastmod>2019-03-07T19:50:47+08:00</lastmod>
   </url>
   
@@ -80,18 +114,6 @@
   <url>
     <loc>https://aliceleon.org/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/tags/design/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/tags/others/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aliceleon.org/post/sketch_pieces/</loc>
   </url>
   
 </urlset>
