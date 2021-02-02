@@ -161,3 +161,7 @@ figcaption p {
     font-size: 120%;
     text-align: center;
 }
+
+figcaption{
+    background: rgba(255, 255, 255, 0.5);
+}
