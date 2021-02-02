@@ -109,7 +109,7 @@ a {
   transition: all 0.2s ease;
 }
 a:link {
-  color: #505a81;
+  color: #606783;
 }
 a:visited, a:hover, a:active, a:focus {
   color: black;

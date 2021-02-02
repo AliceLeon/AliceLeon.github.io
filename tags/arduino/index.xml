@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arduino on Yuqing&#39;s Portfolio</title>
+    <link>https://aliceleon.org/tags/arduino/</link>
+    <description>Recent content in Arduino on Yuqing&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 20:32:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://aliceleon.org/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lost In Translation - Work In Progress</title>
+      <link>https://aliceleon.org/post/lit/</link>
+      <pubDate>Sat, 16 May 2020 01:13:30 +0100</pubDate>
+      
+      <guid>https://aliceleon.org/post/lit/</guid>
+      <description>&lt;p&gt;A project by &lt;a href=&#34;http://www.interactivearchitecture.org/author/ravinraori&#34;&gt;Ravin Raori&lt;/a&gt; and me at &lt;a href=&#34;http://www.interactivearchitecture.org/tag/ialab&#34;&gt;dfpi&lt;/a&gt;.
+A study on using language as a way of seeing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Counter-Productive</title>
+      <link>https://aliceleon.org/post/conterproductive/</link>
+      <pubDate>Sun, 31 Jan 2021 20:32:10 +0000</pubDate>
+      
+      <guid>https://aliceleon.org/post/conterproductive/</guid>
+      <description>&lt;p&gt;Counterproductive is a short film about the consequences of algorithmic bias in artificial intelligence. Thesis project in collaboration with &lt;a href=&#34;http://www.interactivearchitecture.org/author/ravinraori&#34;&gt;Ravin Raori&lt;/a&gt; and me at &lt;a href=&#34;http://www.interactivearchitecture.org/tag/ialab&#34;&gt;dfpi&lt;/a&gt;. Finally.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
