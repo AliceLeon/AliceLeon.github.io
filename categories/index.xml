@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Yuqing&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jan 2021 20:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 23:09:28 +0000</lastBuildDate>
     
 	<atom:link href="https://aliceleon.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Design</title>
       <link>https://aliceleon.org/categories/design/</link>
-      <pubDate>Sun, 31 Jan 2021 20:32:10 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2021 23:09:28 +0000</pubDate>
       
       <guid>https://aliceleon.org/categories/design/</guid>
       <description></description>
@@ -23,45 +23,9 @@
     <item>
       <title>Develop</title>
       <link>https://aliceleon.org/categories/develop/</link>
-      <pubDate>Sun, 31 Jan 2021 20:32:10 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2021 23:09:28 +0000</pubDate>
       
       <guid>https://aliceleon.org/categories/develop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C4D</title>
-      <link>https://aliceleon.org/categories/c4d/</link>
-      <pubDate>Sat, 16 May 2020 21:02:19 +0100</pubDate>
-      
-      <guid>https://aliceleon.org/categories/c4d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arduino</title>
-      <link>https://aliceleon.org/categories/arduino/</link>
-      <pubDate>Sat, 16 May 2020 01:13:30 +0100</pubDate>
-      
-      <guid>https://aliceleon.org/categories/arduino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Processing</title>
-      <link>https://aliceleon.org/categories/processing/</link>
-      <pubDate>Thu, 07 Mar 2019 19:50:47 +0800</pubDate>
-      
-      <guid>https://aliceleon.org/categories/processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unity</title>
-      <link>https://aliceleon.org/categories/unity/</link>
-      <pubDate>Thu, 07 Mar 2019 19:50:47 +0800</pubDate>
-      
-      <guid>https://aliceleon.org/categories/unity/</guid>
       <description></description>
     </item>
     

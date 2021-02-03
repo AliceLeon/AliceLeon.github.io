@@ -6,18 +6,28 @@
     <description>Recent content in P5.js on Yuqing&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2017 18:25:22 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 01:13:30 +0100</lastBuildDate>
     
 	<atom:link href="https://aliceleon.org/tags/p5.js/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Moody</title>
-      <link>https://aliceleon.org/post/moody/</link>
-      <pubDate>Mon, 01 May 2017 18:25:22 +0800</pubDate>
+      <title>Lost In Translation</title>
+      <link>https://aliceleon.org/post/lost-in-translation/</link>
+      <pubDate>Sat, 16 May 2020 01:13:30 +0100</pubDate>
       
-      <guid>https://aliceleon.org/post/moody/</guid>
-      <description>&lt;p&gt;A data visualization about how people&amp;rsquo;s mood vary in a day and how they show it through social media platforms.&lt;/p&gt;</description>
+      <guid>https://aliceleon.org/post/lost-in-translation/</guid>
+      <description>&lt;p&gt;A project by &lt;a href=&#34;http://www.interactivearchitecture.org/author/ravinraori&#34;&gt;Ravin Raori&lt;/a&gt; and me at &lt;a href=&#34;http://www.interactivearchitecture.org/tag/ialab&#34;&gt;dfpi&lt;/a&gt;.
+A study on using language as a way of seeing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sketches</title>
+      <link>https://aliceleon.org/post/sketches/</link>
+      <pubDate>Tue, 29 Oct 2019 20:32:10 +0000</pubDate>
+      
+      <guid>https://aliceleon.org/post/sketches/</guid>
+      <description>&lt;p&gt;Processing &amp;amp; other sketches. WIP&lt;/p&gt;</description>
     </item>
     
   </channel>
