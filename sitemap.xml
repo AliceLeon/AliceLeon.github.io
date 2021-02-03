@@ -37,11 +37,6 @@
   </url>
   
   <url>
-    <loc>https://aliceleon.org/categories/arduino/</loc>
-    <lastmod>2021-01-31T20:32:10+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aliceleon.org/categories/</loc>
     <lastmod>2021-01-31T20:32:10+00:00</lastmod>
   </url>
@@ -79,6 +74,11 @@
   <url>
     <loc>https://aliceleon.org/post/c4d_practice/</loc>
     <lastmod>2020-05-16T21:02:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aliceleon.org/categories/arduino/</loc>
+    <lastmod>2020-05-16T01:13:30+01:00</lastmod>
   </url>
   
   <url>
