@@ -12,24 +12,6 @@
     
     
     <item>
-      <title>Secret</title>
-      <link>https://aliceleon.org/post/secret/</link>
-      <pubDate>Sun, 06 May 2018 18:25:22 +0800</pubDate>
-      
-      <guid>https://aliceleon.org/post/secret/</guid>
-      <description>&lt;p&gt;An interactive wall installation.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>VJ Clips</title>
-      <link>https://aliceleon.org/post/vj_clips/</link>
-      <pubDate>Sat, 15 Dec 2018 22:00:00 +0800</pubDate>
-      
-      <guid>https://aliceleon.org/post/vj_clips/</guid>
-      <description>&lt;p&gt;A failed show for one of my favourite post-rock bands — Sparrow.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Counter-Productive</title>
       <link>https://aliceleon.org/post/conterproductive/</link>
       <pubDate>Tue, 02 Feb 2021 23:09:28 +0000</pubDate>
@@ -49,21 +31,21 @@ A study on using language as a way of seeing.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Spiderman</title>
+      <link>https://aliceleon.org/post/spiderman/</link>
+      <pubDate>Thu, 05 Dec 2019 23:35:42 +0000</pubDate>
+      
+      <guid>https://aliceleon.org/post/spiderman/</guid>
+      <description>&lt;p&gt;An exploration of VR space and tangible space through dancing performance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Sketches</title>
       <link>https://aliceleon.org/post/sketches/</link>
       <pubDate>Tue, 29 Oct 2019 20:32:10 +0000</pubDate>
       
       <guid>https://aliceleon.org/post/sketches/</guid>
       <description>&lt;p&gt;Processing &amp;amp; other sketches. WIP&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Playground</title>
-      <link>https://aliceleon.org/post/the_playground/</link>
-      <pubDate>Thu, 07 Mar 2019 19:50:47 +0800</pubDate>
-      
-      <guid>https://aliceleon.org/post/the_playground/</guid>
-      <description>&lt;p&gt;A few interactive programs for children for &lt;a href=&#34;http://www.pacee-edu.com/pacee-lab&#34;&gt;Pacee Lab&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
