@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WebGL on Yuqing&#39;s Portfolio</title>
-    <link>https://aliceleon.org/tags/webgl/</link>
+    <link>https://yuqing.live/tags/webgl/</link>
     <description>Recent content in WebGL on Yuqing&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 20:32:10 +0000</lastBuildDate>
     
-	<atom:link href="https://aliceleon.org/tags/webgl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuqing.live/tags/webgl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sketches</title>
-      <link>https://aliceleon.org/post/sketches/</link>
+      <link>https://yuqing.live/post/sketches/</link>
       <pubDate>Tue, 29 Oct 2019 20:32:10 +0000</pubDate>
       
-      <guid>https://aliceleon.org/post/sketches/</guid>
+      <guid>https://yuqing.live/post/sketches/</guid>
       <description>&lt;p&gt;Processing &amp;amp; other sketches. WIP&lt;/p&gt;</description>
     </item>
     
