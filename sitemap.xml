@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yuqing.live/post/secret/</loc>
+    <lastmod>2018-05-06T18:25:22+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yuqing.live/tags/arduino/</loc>
     <lastmod>2021-02-02T23:09:28+00:00</lastmod>
   </url>
@@ -100,6 +105,21 @@
   <url>
     <loc>https://yuqing.live/</loc>
     <lastmod>2019-03-20T15:32:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuqing.live/post/the_playground/</loc>
+    <lastmod>2019-03-07T19:50:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuqing.live/tags/kinect/</loc>
+    <lastmod>2019-03-07T19:50:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuqing.live/tags/processing-kinect/</loc>
+    <lastmod>2018-05-06T18:25:22+08:00</lastmod>
   </url>
   
 </urlset>

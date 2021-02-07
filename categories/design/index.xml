@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Secret</title>
+      <link>https://yuqing.live/post/secret/</link>
+      <pubDate>Sun, 06 May 2018 18:25:22 +0800</pubDate>
+      
+      <guid>https://yuqing.live/post/secret/</guid>
+      <description>&lt;p&gt;An interactive wall installation about public space and personal emotions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Counter-Productive</title>
       <link>https://yuqing.live/post/conterproductive/</link>
       <pubDate>Tue, 02 Feb 2021 23:09:28 +0000</pubDate>
@@ -46,6 +55,15 @@ A study on using language as a way of seeing.&lt;/p&gt;</description>
       
       <guid>https://yuqing.live/post/sketches/</guid>
       <description>&lt;p&gt;Processing &amp;amp; other sketches. WIP&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Interactive Prototypes</title>
+      <link>https://yuqing.live/post/the_playground/</link>
+      <pubDate>Thu, 07 Mar 2019 19:50:47 +0800</pubDate>
+      
+      <guid>https://yuqing.live/post/the_playground/</guid>
+      <description>&lt;p&gt;Interactive/audio visualization prototypes designed&amp;amp;developed by me during December 2018 - March 2019.&lt;/p&gt;</description>
     </item>
     
   </channel>
