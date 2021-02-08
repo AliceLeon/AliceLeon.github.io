@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kinect on Yuqing&#39;s Portfolio</title>
-    <link>https://yuqing.live/tags/kinect/</link>
+    <link>https://aliceleon.org/tags/kinect/</link>
     <description>Recent content in Kinect on Yuqing&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Mar 2019 19:50:47 +0800</lastBuildDate>
     
-	<atom:link href="https://yuqing.live/tags/kinect/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aliceleon.org/tags/kinect/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interactive Prototypes</title>
-      <link>https://yuqing.live/post/interactive-prototypes/</link>
+      <link>https://aliceleon.org/post/interactive-prototypes/</link>
       <pubDate>Thu, 07 Mar 2019 19:50:47 +0800</pubDate>
       
-      <guid>https://yuqing.live/post/interactive-prototypes/</guid>
+      <guid>https://aliceleon.org/post/interactive-prototypes/</guid>
       <description>&lt;p&gt;Interactive/audio visualization prototypes designed&amp;amp;developed by me during December 2018 - March 2019.&lt;/p&gt;</description>
     </item>
     
