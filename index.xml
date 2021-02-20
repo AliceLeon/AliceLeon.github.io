@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuqing&#39;s Portfolio</title>
+    <title>Yuqing&#39;s Portfolio Archive</title>
     <link>https://aliceleon.org/</link>
-    <description>Recent content on Yuqing&#39;s Portfolio</description>
+    <description>Recent content on Yuqing&#39;s Portfolio Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Mar 2019 15:32:00 +0800</lastBuildDate>
@@ -72,8 +72,11 @@ A study on using language as a way of seeing.&lt;/p&gt;</description>
       <pubDate>Wed, 20 Mar 2019 15:32:00 +0800</pubDate>
       
       <guid>https://aliceleon.org/about/</guid>
-      <description>Yuqing Liu, Designer &amp;amp; developer based in London. Always interested in learning new things.
- MArch UCL,Interactive Architecture Lab 2019.9-2021.1 BA Digital Media Arts at CUC 2014.9 - 2018.6  Download my CV </description>
+      <description>Yuqing Liu, Digital Designer &amp;amp; Creative Coder based in London. Always interested in learning new things.
+Current Portfolio: https://yuqing.live
+ MArch UCL,Interactive Architecture Lab 2019.9-2021.1 BA Digital Media Arts at CUC 2014.9 - 2018.6  CV upon email request.
+This website is an archive of my portfolio. Built with Hugo. Theme by Appernetic. Slightly modified by me.
+Many thanks to liwenyip for the gallery support and this post.</description>
     </item>
     
     <item>

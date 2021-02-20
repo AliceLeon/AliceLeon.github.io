@@ -473,6 +473,17 @@ a img {
   -webkit-transition: opacity 0.2s ease;
           transition: opacity 0.2s ease;
 }
+.site-description{
+  color:rgb(255, 255, 255,0.6)!important;
+}
+.site-description a{
+  color:rgba(255, 255, 255, 0.6)!important;
+}
+.site-description a:active,
+.site-description a:focus,
+.site-description a:hover{
+  color:rgba(255, 255, 255, 1)!important;
+}
 .site-title span {
   opacity: 0;
   position: absolute;
@@ -649,10 +660,10 @@ a img {
     text-align: right;
     min-height: 37px;
   }
-  .menu-primary .site-description, .menu-primary-tracks .site-description {
+  .menu-primary .site-description, .menu-primary-tracks {
     position: absolute;
     left: 0;
-    opacity: 0.6;
+    opacity: 1;
   }
   .menu-primary .site-description + div, .menu-primary-tracks .site-description + div {
     margin-bottom: 0.75em;
